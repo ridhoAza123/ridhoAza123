@@ -1,10 +1,9 @@
- <div align="center">
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1D4ED8,100:06B6D4&height=210&section=header&text=RIDHO&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=Engineering%20Ideas%20Into%20Reality&descSize=17&descAlignY=59&animation=fadeIn" width="100%" alt="Ridho banner"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=65&lines=Computer+Engineering+Student;Full-Stack+%26+Mobile+Developer;Networking+%26+Cybersecurity;AI+Agents+%26+Cloud+Infrastructure;Build.+Break.+Learn.+Repeat." alt="Animated introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=65&lines=Computer+Engineering+Student;Full-Stack+%26+Mobile+Developer;Web+Development+%26+UI%2FUX;AI+Agents+%26+Cloud+Infrastructure;Build.+Break.+Learn.+Repeat." alt="Animated introduction"/>
 
 <br/>
 
@@ -26,19 +25,22 @@
 name: Ridho
 education: Computer Engineering @ Universitas Brawijaya
 focus:
-  - Full-Stack & Mobile Development
+  - Full-Stack Web Development
+  - Mobile App Development
+  - UI/UX & Responsive Design
   - Artificial Intelligence & AI Agents
-  - Networking & Cybersecurity
   - Cloud Infrastructure & DevOps
-currently: Building real-world technology projects
+currently: Building real-world web and mobile applications
 philosophy: "Build. Break. Learn. Repeat."
 ```
 
 - 🎓 Computer Engineering student at **Universitas Brawijaya**.
-- 🚀 Building web applications, mobile apps, and AI-powered solutions.
-- 🌐 Exploring Linux servers, cloud infrastructure, and network engineering.
-- 🔐 Interested in cybersecurity, automation, and reliable system architecture.
-- 🤝 Open to collaboration, open-source projects, and challenging ideas.
+- 🌐 Building modern websites, web applications, and responsive user interfaces.
+- 📱 Developing mobile applications with Flutter.
+- 🤖 Exploring AI agents and AI-powered applications.
+- ☁️ Learning cloud infrastructure, Linux servers, and DevOps.
+- 🛠️ Interested in turning ideas into useful, scalable digital products.
+- 🤝 Open to collaborating on web development, full-stack projects, and open-source software.
 - ⚡ I love building things. Debugging is the character development.
 
 ---
@@ -47,32 +49,32 @@ philosophy: "Build. Break. Learn. Repeat."
 
 <div align="center">
 
-**Languages**
+### Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,php,html,css&theme=dark" alt="Programming languages"/>
 
-**Frontend & Mobile**
+### Frontend & Mobile
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,flutter&theme=dark" alt="Frontend and mobile"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,flutter&theme=dark" alt="Frontend and mobile technologies"/>
 
-**Backend & Databases**
+### Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase,supabase,mysql,postgres,mongodb&theme=dark" alt="Backend and databases"/>
 
-**Cloud, DevOps & Networking**
+### Cloud, DevOps & Networking
 
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,aws,azure,git,github,bash&theme=dark" alt="Cloud DevOps and networking"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,aws,azure,git,github,bash&theme=dark" alt="Cloud, DevOps and networking"/>
 
-**Hardware & IoT**
+### Hardware & IoT
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Hardware and IoT"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Networking-MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white" alt="MikroTik"/>
+<img src="https://img.shields.io/badge/Web-Development-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" alt="Web development"/>
 <img src="https://img.shields.io/badge/Containerization-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/AI-AI%20Agents-8B5CF6?style=flat-square&logo=openai&logoColor=white" alt="AI Agents"/>
-<img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/AI-AI%20Agents-8B5CF6?style=flat-square&logo=openai&logoColor=white" alt="AI agents"/>
+<img src="https://img.shields.io/badge/Networking-MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white" alt="MikroTik"/>
 
 </div>
 
@@ -85,7 +87,6 @@ philosophy: "Build. Break. Learn. Repeat."
 <a href="https://github.com/ridhoAza123">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ridhoAza123&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
 </a>
-
 <a href="https://github.com/ridhoAza123">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhoAza123&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=6" alt="Top programming languages"/>
 </a>
@@ -93,7 +94,7 @@ philosophy: "Build. Break. Learn. Repeat."
 <br/><br/>
 
 <a href="https://github.com/ridhoAza123">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=ridhoAza123&theme=transparent&hide_border=true&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak statistics"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=ridhoAza123&theme=transparent&hide_border=true&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
 </a>
 
 <br/><br/>
@@ -132,7 +133,7 @@ philosophy: "Build. Break. Learn. Repeat."
 <div align="center">
 
 <a href="https://github.com/ridhoAza123">
-  <img src="https://raw.githubusercontent.com/ridhoAza123/ridhoAza123/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
+  <img src="https://raw.githubusercontent.com/ridhoAza123/ridhoAza123/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
 </a>
 
 <sub>Every contribution starts with a single commit.</sub>
@@ -147,7 +148,7 @@ philosophy: "Build. Break. Learn. Repeat."
 
 **Have an idea? Let's build something useful.**
 
-Interested in software engineering, AI, infrastructure, and projects that solve real problems.
+Interested in web development, AI, infrastructure, and projects that solve real problems.
 
 <br/>
 
