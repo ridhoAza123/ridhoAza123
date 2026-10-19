@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=ridhoAza123&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=ridhoAza123&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -111,9 +111,15 @@ motto: "Build. Break. Learn. Repeat."
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ridhoAza123&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ridhoAza123&theme=github-compact&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
 
 </div>
+
+---
 
 ---
 
@@ -122,13 +128,19 @@ motto: "Build. Break. Learn. Repeat."
 <div align="center">
 
 <a href="https://github.com/ridhoAza123/WhatsappBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridhoAza123&repo=WhatsappBot&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8" alt="WhatsApp Bot project"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ridhoAza123&repo=WhatsappBot&theme=github_dark&hide_border=true"
+    alt="WhatsApp Bot"
+  />
 </a>
 <a href="https://github.com/ridhoAza123/controler-Device-via-telegram">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridhoAza123&repo=controler-Device-via-telegram&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8" alt="Telegram device controller project"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ridhoAza123&repo=controler-Device-via-telegram&theme=github_dark&hide_border=true"
+    alt="Telegram Device Controller"
+  />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/ridhoAza123?tab=repositories">
   <img src="https://img.shields.io/badge/Explore-All%20Repositories-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
