@@ -69,14 +69,27 @@ philosophy: "Build. Break. Learn. Repeat."
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="Hardware and IoT"/>
 
+
 <br/>
 
-<img src="https://img.shields.io/badge/Web-Development-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" alt="Web development"/>
-<img src="https://img.shields.io/badge/Containerization-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/AI-AI%20Agents-8B5CF6?style=flat-square&logo=openai&logoColor=white" alt="AI agents"/>
-<img src="https://img.shields.io/badge/Networking-MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white" alt="MikroTik"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Development-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Development"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Mobile%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile Development"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI%20Agents-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cloud%20Infrastructure-0F766E?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud Infrastructure"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Networking-334155?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
+</p>
 
 </div>
+
 
 ---
 
